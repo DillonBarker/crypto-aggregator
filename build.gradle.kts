@@ -32,7 +32,7 @@ dependencies {
     runtimeOnly("org.yaml:snakeyaml")
 
     testImplementation("io.micronaut:micronaut-http-client")
-
+    testImplementation("org.mockito:mockito-core")
 }
 
 
